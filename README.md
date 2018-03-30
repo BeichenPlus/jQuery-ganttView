@@ -2,7 +2,9 @@ jQuery-ganttView
 ================
 
 jQuery-ganttView是基于jQuery，下载后直接运行即可。
-特性：
+
+特性
+--------
 1.可以点击、拖动、调整大小、以及直接拖拽新任务到视图中
 ![示例图](https://github.com/982964399/jQuery-ganttView/blob/master/example/example.png)
 ![示例图](https://github.com/982964399/jQuery-ganttView/blob/master/example/example2.png)
