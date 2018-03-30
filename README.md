@@ -1,4 +1,4 @@
-jQuery-ganttView
+jQuery-ganttView 资源甘特图
 ================
 
 jQuery-ganttView是基于jQuery，下载后直接运行即可。
